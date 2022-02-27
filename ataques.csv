@@ -1,0 +1,20 @@
+﻿Personaje,Habilidad,A_N,A_CV,A_SV,A_CPN,A_CPCV,A_CPSV
+Aquarder,Aqua-jet,3,5,2,5,7,4
+Aquarder,Cola ferrea,2,2,2,2,2,2
+Aquarder,Cabezazo,2,2,2,2,2,2
+Electder,Trueno,3,5,2,5,7,4
+Electder,Arañazo,3,3,3,3,3,3
+Electder,Mordisco,3,3,3,3,3,3
+Firesor,Llamarada,3,5,2,5,7,4
+Firesor,Embestida,2,2,2,2,2,2
+Firesor,Mordisco,2,2,2,2,2,2
+Mousebug,Picotazo,3,5,2,5,7,4
+Mousebug,Embestida,2,2,2,2,2,2
+Mousebug,Cabezazo,2,2,2,2,2,2
+Mousebug,Esporas,0,0,0,0,0,0
+Splant,Hoja navaja,3,5,2,5,7,4
+Splant,Mordisco,2,2,2,2,2,2
+Splant,Cabezazo,2,2,2,2,2,2
+Rockdog,Roca afilado,3,5,2,5,7,4
+Rockdog,Velocidad,2,2,2,2,2,2
+Rockdog,Cola ferrea,2,2,2,2,2,2
